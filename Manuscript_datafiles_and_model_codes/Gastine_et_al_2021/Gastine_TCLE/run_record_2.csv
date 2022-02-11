@@ -1,0 +1,17 @@
+Time since infection (d)	dataset	description	OFV	AIC	BIC
+0.5	vl_dat_14days_post_symptom	TCLE model	2471	4329	4383
+1	vl_dat_14days_post_symptom	TCLE model	2516	4374	4428
+1.5	vl_dat_14days_post_symptom	TCLE model	2499	4357	4411
+2	vl_dat_14days_post_symptom	TCLE model	2533	4391	4445
+3	vl_dat_14days_post_symptom	TCLE model	2538	4396	4450
+4	vl_dat_14days_post_symptom	TCLE model	2551	4409	4463
+5	vl_dat_14days_post_symptom	TCLE model	2586	4444	4498
+6	vl_dat_14days_post_symptom	TCLE model	2573	4431	4485
+7	vl_dat_14days_post_symptom	TCLE model	2579	4437	4491
+8	vl_dat_14days_post_symptom	TCLE model	2552	4410	4464
+9	vl_dat_14days_post_symptom	TCLE model	2571	4429	4483
+10	vl_dat_14days_post_symptom	TCLE model	2549	4407	4461
+11	vl_dat_14days_post_symptom	TCLE model	2562	4420	4474
+12	vl_dat_14days_post_symptom	TCLE model	2540	4398	4452
+13	vl_dat_14days_post_symptom	TCLE model	2561	4420	4473
+14	vl_dat_14days_post_symptom	TCLE model	2558	4416	4470

@@ -1,0 +1,17 @@
+Time since infection (d),dataset,description,OFV,AIC,BIC
+0.5,vl_dat_14days_post_symptom,TCL model,2257,4111,4155
+1,vl_dat_14days_post_symptom,TCL model,2273,4127,4171
+1.5,vl_dat_14days_post_symptom,TCL model,2380,4234,4278
+2,vl_dat_14days_post_symptom,TCL model,2559,4413,4457
+3,vl_dat_14days_post_symptom,TCL model,2680,4534,4578
+4,vl_dat_14days_post_symptom,TCL model,3089,4943,4987
+5,vl_dat_14days_post_symptom,TCL model,3356,5211,5255
+6,vl_dat_14days_post_symptom,TCL model,3193,5047,5091
+7,vl_dat_14days_post_symptom,TCL model,3752,5606,5650
+8,vl_dat_14days_post_symptom,TCL model,4558,6412,6456
+9,vl_dat_14days_post_symptom,TCL model,4378,6232,6276
+10,vl_dat_14days_post_symptom,TCL model,3973,5827,5872
+11,vl_dat_14days_post_symptom,TCL model,3860,5714,5758
+12,vl_dat_14days_post_symptom,TCL model,3843,5697,5741
+13,vl_dat_14days_post_symptom,TCL model,3879,5733,5777
+14,vl_dat_14days_post_symptom,TCL model,4020,5874,5918

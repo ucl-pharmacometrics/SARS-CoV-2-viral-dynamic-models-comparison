@@ -1,0 +1,17 @@
+Time since infection (d)	dataset	description	OFV	AIC	BIC
+0.5	vl_dat_14days_post_symptom_under65	TCL model	1974	3628	3700
+1	vl_dat_14days_post_symptom_under65	TCL model	1824	3479	3551
+1.5	vl_dat_14days_post_symptom_under65	TCL model	1834	3489	3561
+2	vl_dat_14days_post_symptom_under65	TCL model	1859	3514	3586
+3	vl_dat_14days_post_symptom_under65	TCL model	1866	3520	3592
+4	vl_dat_14days_post_symptom_under65	TCL model	1887	3542	3614
+5	vl_dat_14days_post_symptom_under65	TCL model	1900	3554	3626
+6	vl_dat_14days_post_symptom_under65	TCL model	1903	3558	3630
+7	vl_dat_14days_post_symptom_under65	TCL model	1907	3562	3633
+8	vl_dat_14days_post_symptom_under65	TCL model	1923	3578	3650
+9	vl_dat_14days_post_symptom_under65	TCL model	1943	3597	3669
+10	vl_dat_14days_post_symptom_under65	TCL model	1937	3592	3664
+11	vl_dat_14days_post_symptom_under65	TCL model	1964	3619	3690
+12	vl_dat_14days_post_symptom_under65	TCL model	1974	3629	3701
+13	vl_dat_14days_post_symptom_under65	TCL model	1978	3633	3705
+14	vl_dat_14days_post_symptom_under65	TCL model	1986	3641	3712

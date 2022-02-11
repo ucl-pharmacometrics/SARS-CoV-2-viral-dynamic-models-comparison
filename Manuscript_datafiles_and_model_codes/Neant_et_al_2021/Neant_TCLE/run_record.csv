@@ -1,0 +1,17 @@
+Time since infection (d),dataset,description,OFV,AIC,BIC
+0.5,vl_dat_14days_post_symptom_under65,TCLE model,3494,5160,5261
+1,vl_dat_14days_post_symptom_under65,TCLE model,1899,3566,3666
+1.5,vl_dat_14days_post_symptom_under65,TCLE model,1898,3564,3665
+2,vl_dat_14days_post_symptom_under65,TCLE model,1928,3594,3695
+3,vl_dat_14days_post_symptom_under65,TCLE model,1922,3589,3689
+4,vl_dat_14days_post_symptom_under65,TCLE model,1970,3636,3737
+5,vl_dat_14days_post_symptom_under65,TCLE model,2046,3712,3813
+6,vl_dat_14days_post_symptom_under65,TCLE model,2093,3759,3860
+7,vl_dat_14days_post_symptom_under65,TCLE model,2090,3756,3857
+8,vl_dat_14days_post_symptom_under65,TCLE model,2147,3814,3914
+9,vl_dat_14days_post_symptom_under65,TCLE model,2125,3792,3892
+10,vl_dat_14days_post_symptom_under65,TCLE model,2131,3798,3899
+11,vl_dat_14days_post_symptom_under65,TCLE model,2145,3812,3913
+12,vl_dat_14days_post_symptom_under65,TCLE model,2141,3808,3908
+13,vl_dat_14days_post_symptom_under65,TCLE model,2161,3827,3928
+14,vl_dat_14days_post_symptom_under65,TCLE model,2148,3815,3915

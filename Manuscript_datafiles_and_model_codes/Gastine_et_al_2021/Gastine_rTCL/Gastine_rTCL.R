@@ -109,7 +109,7 @@ rTCL.gam.fix <- function() {
     beta  <- exp(tbeta + eta.beta)    # individual value of beta
     delta <- exp(tdelta + eta.delta)  # individual value of delta
     v0    <- exp(tv0 + eta.v0)           # individual value of v0
-    gamma <- 1  # T(0)*p/c, fixed value   
+    gamma <- 1  # bT(0)*p/c, fixed value   
 
     A_f(0) = 1
     A_v(0) = v0

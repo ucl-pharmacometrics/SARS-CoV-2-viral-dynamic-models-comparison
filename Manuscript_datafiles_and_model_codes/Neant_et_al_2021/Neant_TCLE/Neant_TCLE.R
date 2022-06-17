@@ -1201,7 +1201,7 @@ L <- 1/delta # 1.23
 #
 ############### R0 with fixed parameters #######################
 ###### TCLERo ######
-# Parameter estimates from Kamal et al doi:10.1128/AAC.00069-15
+# 
 TCLERo <- function() {
   ini({
     tbeta  <- -10.72       # Rate constant for virus infection
